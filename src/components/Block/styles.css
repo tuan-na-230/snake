@@ -1,0 +1,17 @@
+.block {
+  width: 10px;
+  height: 10px;
+  border: 1px solid black;
+}
+
+.block-active {
+  background-color: rgb(134, 132, 240);
+}
+
+.block-head {
+  background-color: blue;
+}
+
+.block-food {
+  background-color: red;
+}
